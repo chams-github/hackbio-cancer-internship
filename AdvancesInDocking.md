@@ -23,3 +23,4 @@ While in molecular docking, the positioning accuracy of many programs is already
 ### Acknowledgment
 
 This summary was prepared by Alle Manideep (allemanideep@gmail.com), **Chamss Daghsni** (chamssdaghsni.insat@gmail.com), Derleen Mogire (derleenmogire@gmail.com), **JACKLINE WESLEY** (wesleyjackline005@gmail.com). Additionally, thanks to HackBio: https://course.thehackbio.com/ for providing the internship opportunity that enabled deeper exploration into this complex area of drug discovery.
+Video presentation Link:https://www.linkedin.com/posts/derleen-mogire-1b0223286_drugdiscovery-moleculardocking-pharmatech-activity-7238309297464442880-wbb1?utm_source=share&utm_medium=member_desktop
