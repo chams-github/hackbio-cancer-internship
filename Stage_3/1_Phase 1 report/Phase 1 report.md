@@ -34,7 +34,6 @@ CASTp is used to obtain active sites for 3NXA.
 
 **_Table 1:_** _Active Site Characteristics of 3NXA for Molecular Docking_
 
-|                     |                                 |
 | :-----------------: | :-----------------------------: |
 |    **Parameter**    |            **Value**            |
 |   **Active site**   |             Pocket 1            |
@@ -58,7 +57,6 @@ The binding affinity analysis revealed 3 turmeric compounds with the top binding
 
 **_Table2:_** _Binding Affinity Results of Top Three Turmeric Phytochemicals Docked to 3NXA_
 
-|                                   |                      |             |             |
 | --------------------------------- | -------------------- | ----------- | ----------- |
 | **Ligand**                        | **Binding Affinity** | **rmsd/ub** | **rmsd/lb** |
 | Terpecurcumin A (3nxa\_71457832)  | -7.9                 | 0           | 0           |
