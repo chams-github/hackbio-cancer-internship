@@ -36,9 +36,8 @@ Changes were finally added to the protein with the help of tools available in Py
 
 **_Table 1:_** _Active Site Characteristics of 3NXA for Molecular Docking_
 
-|                     |                                 |
-| :-----------------: | :-----------------------------: |
 |    **Parameter**    |            **Value**            |
+| :-----------------: | :-----------------------------: |
 |   **Active site**   |             Pocket 1            |
 |  **Binding sites**  |   572 205 410 133 149 144 204   |
 |     **Receptor**    |            3NXA.pdbqt           |
